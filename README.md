@@ -136,7 +136,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   <img src="https://i.imgur.com/6AAF3Ju.png" height="75%" width="100%" alt="sev one"/>
   <img src="https://i.imgur.com/izcD74X.png" height="75%" width="100%" alt="sev two"/>
-  <img src="https://i.imgur.com/xKzdp7w.png" height="75%" width="100%" alt="sev three"/>
 </p>
 <br />
 <br />
